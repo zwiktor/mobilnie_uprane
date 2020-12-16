@@ -10537,3 +10537,19 @@ padding: 10px 0px;
 .rond {
   border-radius: 10%;
 }
+
+.bg-color-i{
+  font-size: 60px;
+  color:rgb(255, 208, 0) !important;
+}
+
+
+.bg-color-f{
+  font-size: 60px;
+  color:rgb(0, 102, 255) !important;
+}
+
+.mail-font-2 {
+  color: black;
+  font-size: medium;
+}
